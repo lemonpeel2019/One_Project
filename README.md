@@ -8,3 +8,17 @@ Révision et retravail des  connaissances et compétences aquises de la premièr
 
 - **github**  
 Provider of Internet hosting for software development from the open source community.
+
+- **front-end**
+- **html**
+- **css**
+- **javascript**
+- **Client**
+- **ligne de commande**
+- **integration**
+- **back-end**
+- **serveur**
+- **base de données**
+- **php**
+- **sql**
+
